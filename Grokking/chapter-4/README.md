@@ -7,3 +7,5 @@ This chapter focuses on Quick Sort. Choosing the pivot is important, but we will
 3. Recurse on the right array (elements greater than the pivot)
 
 Stay tuned for more details on selecting the optimal pivot!
+
+Happy Coding!

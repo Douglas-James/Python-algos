@@ -46,3 +46,5 @@ Below is a graphic representation of the performance of hash table operations:
 ```
 
 This table summarizes the time complexity for hash table operations.
+
+Happy Coding!

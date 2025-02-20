@@ -27,4 +27,4 @@ Understanding algorithms is crucial for efficient problem-solving and optimizing
 1. Implement a binary search algorithm in Python.
 2. Write a Python function to perform bubble sort on a list of numbers.
 
-Happy coding!
+Happy Coding!

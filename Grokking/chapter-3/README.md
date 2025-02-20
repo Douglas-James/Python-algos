@@ -37,3 +37,5 @@ print(stack.pop())  # Output: 1
 ```
 
 Understanding recursion and stacks is crucial for solving complex problems efficiently. This chapter will provide you with the necessary knowledge and examples to master these concepts.
+
+Happy Coding!

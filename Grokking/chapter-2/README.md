@@ -27,3 +27,5 @@ python3 selectionSort.py
 ```
 
 Make sure you have Python installed on your system.
+
+Happy Coding!
